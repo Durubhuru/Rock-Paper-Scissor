@@ -155,9 +155,7 @@ div:last-child{
 
 footer {
     text-align: center;
-    font-family: 'Monoton', cursive;
-    color: rgb(255, 5, 47);
-    font-size: 1vmin;
+    color: white;
 }
 
 .restart-window {
